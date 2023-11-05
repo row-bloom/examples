@@ -6,5 +6,8 @@
         "row-bloom/row-bloom": "dev-main",
         "row-bloom/spreadsheet-data-loader": "dev-main",
         "row-bloom/twig-interpolator": "dev-main"
+    },
+    "require-dev": {
+        "laravel/pint": "^1.13"
     }
 }
